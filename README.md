@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate developer exploring the boundaries of innovation</h3>
 
-<p align="center">
+<p align="top">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-Stack+Developer;Open-Source+Contributor;Lifelong+Learner;Tech+Enthusiast;ai+ml+learner;proud+to+be+nerd" />
 </p>
 
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Kumar-706&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-Kumar-706&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Kumar-706&theme=radical&layout=compact" alt="Top Languages">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Kumar-706&theme=radical&layout=compact" alt="Top Toolkit and SDKs">
 </p>
 
 ---
@@ -41,11 +41,7 @@
 
 ---
 
-### 🌟 Fun Widgets
-
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&quoteCategory=programming" alt="Quote of the Day" />
-</p>
+### 🌟 my best creations
 
 ---
 
