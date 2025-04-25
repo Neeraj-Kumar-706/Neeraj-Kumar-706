@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer exploring the boundaries of innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-Stack+Developer;Open-Source+Contributor;Lifelong+Learner;Tech+Enthusiast;ai,ml+learner;proud+to+be+nerd" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-Stack+Developer;Open-Source+Contributor;Lifelong+Learner;Tech+Enthusiast;AI+And+ML+learner;Proud+To+Be+Nerd" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Kumar-706&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj-Kumar-706&theme=radical" alt="GitHub Streak" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Kumar-706&theme=radical&layout=compact" alt="Top Toolkit and SDKs">
 </p>
 
@@ -41,10 +40,6 @@
 
 ---
 
-### 🌟 my best creations
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -66,6 +61,11 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+---
+### 🌟 my best creations
+1. Pomodoro
+
+
 
 ---
 
