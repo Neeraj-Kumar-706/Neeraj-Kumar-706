@@ -7,23 +7,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-Kumar-706&show_icons=true&theme=radical" alt="GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-Kumar-706&theme=radical&layout=compact" alt="Top Toolkit and SDKs">
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neeraj-Kumar-706&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 💻 Tech Stack
 
 <p align="center">
